@@ -1,2 +1,8 @@
-# simple-rotating-cube-css
-Simple rotating cube in css
+# Simple Rotating Cube in CSS
+
+Just a practice, use at will.
+
+
+# License
+
+MIT.
